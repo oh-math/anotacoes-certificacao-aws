@@ -78,8 +78,8 @@ O EFS é um tipo de armazenamento dimensionável, onde ele pode escalar auto e c
 O Bootstrap inicial de um EC2 que roda os **dados de usuário** roda com o usuário root
 
 Convenção para nomear o hardware da instância
-ex: ==m==**5**_.2xlarge_
-==m==: instancia da classe
+ex: m**5**_.2xlarge_
+m: instancia da classe
 **5**: geração (a AWS melhora como tempo)
 _.2xlarge_: tamanho de acordo com a instancia da classe
 
