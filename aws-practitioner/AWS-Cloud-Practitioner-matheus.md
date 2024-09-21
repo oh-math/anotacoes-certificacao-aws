@@ -94,7 +94,7 @@ Trabalha com **vCPU (virtual CPU)**, que são basicamente CPUs virtualizadas em 
 #### Security Groups
 
 Fundamento da segurança de rede da AWS. É ele o trafego de rede que pode entrar ou sair
-![image 20240911185603.png](../Pasted%20image%2020240911185603.png)
+![image 20240911185603.png](../assets/Pasted%20image%2020240911185603.png)
 Atua como um "firewall" em instancias EC2
 
 Eles regulam:
